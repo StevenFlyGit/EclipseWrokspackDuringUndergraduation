@@ -1,0 +1,12 @@
+#java
+*.class
+
+#eclipse ignore
+.settings/
+.project
+.classpath
+.metadata/
+
+#Intellij idea
+#.idea/
+.idea/
