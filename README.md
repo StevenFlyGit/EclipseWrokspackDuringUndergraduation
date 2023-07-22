@@ -9,7 +9,7 @@
 软件架构说明
 1 测试本地detached head
 
-2
+2 切换到本地的origin/master分支后显示detached head，但并无实际影响，测试完毕
 
 
 3
